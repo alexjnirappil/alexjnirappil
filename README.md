@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexjnirappil
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity, salesforce and blockchain.
-- 💞️ I’m looking to collaborate on security/ peneteration projects 
+- 👀 I’m interested in cybersecurity and data analytics
+- 🌱 I’m currently learning cybersecurity and Data analytics
+- 💞️ I’m looking to collaborate on security/ analytics projects 
 - 📫 How to reach me on alexjnirappil@live.com
 
 <!---
